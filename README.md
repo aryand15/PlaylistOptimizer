@@ -44,8 +44,8 @@ The optimization process uses the following workflow:
 1) Make sure you have Python 3.8+, Node.js 18+, and Git.
 2) Clone the repository:
 ```
-git clone https://github.com/aryand15/playlist-optimizer.git
-cd playlist-optimizer
+git clone https://github.com/aryand15/PlaylistOptimizer.git
+cd PlaylistOptimizer
 ```
 3) Download the Spotify Tracks Dataset as a CSV file [here](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset), and unzip it.
 4) Activate a Python virtual environment and download the necessary packages:
@@ -76,7 +76,7 @@ npm start
 ## General Usage
 1) Navigate to the root folder:
 ```
-cd playlist-optimizer
+cd PlaylistOptimizer
 ```
 2) Activate the Python virtual environment:
 ```
