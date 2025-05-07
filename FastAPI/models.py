@@ -10,7 +10,7 @@ class Song(Base):
     track_name = Column(String)
     popularity = Column(Float)
     duration_ms = Column(Float)
-    explicit = int
+    explicit = Column(Integer)
     danceability = Column(Float)
     energy = Column(Float)
     key = Column(Integer)
